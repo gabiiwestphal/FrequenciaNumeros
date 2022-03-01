@@ -37,10 +37,6 @@ namespace FrequenciaNumerosConsoleApp
 
             Console.ReadLine();
 
-
-
-
-
         }
     }
 }
